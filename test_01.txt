@@ -1,0 +1,3 @@
+The term magic method is slang for special method, but when talking about a specific method like __getitem__, some Python developers take the shortcut of saying “under-under-getitem” which is ambiguous, because the syntax __x has another special meaning. 2 Being precise and pronouncing “under-under-getitem-under-under” is tiresome, so I follow the lead of author and teacher Steve Holden and say “dunder-getitem.” All experienced Pythonistas understand that shortcut. As a result, the special methods are also known as dunder methods.
+
+Ramalho, Luciano. Fluent Python (p. 4). O'Reilly Media. Kindle Edition. 
